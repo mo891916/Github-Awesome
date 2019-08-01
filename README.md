@@ -32,6 +32,7 @@ A curated list of frameworks, libraries, software and resources what I used
 #### flask
 * [authbase](https://gitee.com/zhujf21st/authbase): 用户管理、角色管理、资源管理和机构管理
 * [flask-jwt-extended](https://github.com/vimalloc/flask-jwt-extended): FLASK JWT 扩展
+* [spug](https://github.com/openspug/spug):开源运维平台：帮助中小型企业完成主机、任务、发布部署、配置文件、监控、报警等管理
 
 #### django
 * django 后台
@@ -50,6 +51,7 @@ A curated list of frameworks, libraries, software and resources what I used
 * [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning): 机器学习算法的Python示例，解释了交互式Jupyter演示和数学
 * [LIS-YNP](https://github.com/Eurus-Holmes/LIS-YNP): 基于官方Pytorch教程和yunjey的pytorch-tutorial，该存储库为深度学习研究人员提供了学习PyTorch的 教程代码
 * [face_recognition](https://github.com/ageitgey/face_recognition):最简单的面部识别API
+* [SPADE](https://github.com/NVlabs/SPADE):用SPADE进行语义图像合成
 * [Tensorflow-Cookbook](https://github.com/taki0112/Tensorflow-Cookbook): Tensorflow快速上手
 
 #### others
@@ -62,6 +64,7 @@ A curated list of frameworks, libraries, software and resources what I used
 * [livepython](https://github.com/agermanidis/livepython):   实时跟踪Python代码。
 * [mimesis](https://github.com/lk-geimfari/mimesis): 模拟数据生成
 * [open-paperless](https://github.com/zhoubear/open-paperless): 扫描，索引和归档所有纸质文档
+* [redash](https://github.com/getredash/redash): 。连接到任何数据源，轻松可视化，仪表板和共享您的数据
 * [pyecharts](https://github.com/pyecharts/pyecharts): Python Echarts绘图库
  
 ## vue
