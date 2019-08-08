@@ -41,11 +41,13 @@ A curated list of frameworks, libraries, software and resources what I used
 * [Ueditor](https://github.com/wsqy/DjangoUeditor): Django 富文本
 * [djangoBlog](https://github.com/HuJieRu/djangoBlog):  Python2.7.13+django1.11.2+vue2.0开发的个人博客网站
 * [DjangoBlog](https://github.com/liangliangyy/DjangoBlog):  基于Django的博客系统
+* [jumpserver](https://github.com/jumpserver/jumpserver):  Jumpserver是全球首款完全开源的堡垒机，是符合图4A的专业运维审计系统
 
 #### spider
 * [proxy_pool](https://github.com/jhao104/proxy_pool): 爬虫IP代理池
 * [ruia](https://github.com/howie6879/ruia): 基于asyncio的异步Python 3.6+网页抓取微框架
 * [scrapydweb](https://github.com/my8100/scrapydweb): 用于Scrapyd集群管理，Scrapy日志分析和可视化，自动打包，计时器任务，电子邮件通知和移动UI的Web应用程序
+* [scylla](https://github.com/imWildCat/scylla): 爬虫IP代理池
 
 #### machine-learning
 * [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning): 机器学习算法的Python示例，解释了交互式Jupyter演示和数学
